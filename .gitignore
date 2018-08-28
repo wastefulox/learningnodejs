@@ -1,0 +1,23 @@
+# do not track content of these folders
+# notes-node/require/
+
+# Compiled Source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Custom Files #
+notes-node/greetings.txt
