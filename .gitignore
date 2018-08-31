@@ -1,5 +1,6 @@
 # do not track content of these folders
 # notes-node/require/
+notes-node/node-modules/
 
 # Compiled Source #
 *.com
@@ -21,4 +22,3 @@
 
 # Custom Files #
 notes-node/greetings.txt
-notes-node/node-modules
